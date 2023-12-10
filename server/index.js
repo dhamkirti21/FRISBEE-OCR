@@ -6,7 +6,7 @@ const dotenv = require('dotenv');
 
 dotenv.config();
 const app = express();
-const port = 3000;
+const port = process.env.PORT;
 
 // Multer configuration
 const storage = multer.memoryStorage(); // Store files in memory

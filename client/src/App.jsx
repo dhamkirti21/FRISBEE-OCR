@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import axios from 'axios';
 
-const BACKEND_URL = "http://localhost:3000"
+const BACKEND_URL = "https://future-ocr-server.azurewebsites.net"
 
 function App() {
   const [image, setImage] = useState(null);

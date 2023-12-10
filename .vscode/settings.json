@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/dd447df4-15a3-4671-871f-410f2c0eb86a/resourceGroups/Future/providers/Microsoft.Web/sites/futureocr",
+    "appService.deploySubpath": "server"
+}

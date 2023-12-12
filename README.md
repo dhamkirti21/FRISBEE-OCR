@@ -1,4 +1,4 @@
-# OCR System Enhancement Project
+# FRISBEE-OCR
 
 In our digital era, document digitization and data extraction play a crucial role, but existing OCR (Optical Character Recognition) systems face challenges in accurately converting text to digital formats. This hampers efficiency and precision, creating obstacles in seamless data extraction. Despite progress, issues like character misinterpretation, limited language support, difficulty with handwritten text, and varied document formats persist.
 
